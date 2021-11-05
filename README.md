@@ -2,7 +2,7 @@
 
 | Chipset | Device Lists |
 | :--: | :--: |
-| s905x2 | [X96Max-4G](https://tokopedia.link/HcfLaRzjqeb), [X96Max-2G](https://tokopedia.link/HcfLaRzjqeb) |, [X96Max-2G](https://www.tokopedia.com/find/a95x-f2)|
+| s905x2 | [X96Max-4G](https://tokopedia.link/HcfLaRzjqeb), [X96Max-2G](https://tokopedia.link/HcfLaRzjqeb), [A95XF2](https://www.tokopedia.com/find/a95x-f2)|
 
 ### Official Site :
 > Read more about firmware information, such as features, login informations, etc.

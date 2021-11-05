@@ -1,9 +1,8 @@
-### HelmiWrt OS Repack for s905x devices
+### HelmiWrt OS Repack for s905x2 devices
 
 | Chipset | Device Lists |
 | :--: | :--: |
-| s905x | HG680P, B860H |
-| s905x3 | X96-Max+, HK1-Box,<br> H96-Max-X3, Ugoos-X3, <br>X96-Air, A95XF3-Air |
+| s905x2 | [X96Max-4G](https://tokopedia.link/HcfLaRzjqeb), [X96Max-2G](https://tokopedia.link/HcfLaRzjqeb) |
 
 ### Official Site :
 > Read more about firmware information, such as features, login informations, etc.
